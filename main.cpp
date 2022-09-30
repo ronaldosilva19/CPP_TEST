@@ -15,6 +15,6 @@ int main() {
     cin >> tamanho;
 
     execute.InputVector(vetor, tamanho);
-    execute.PrintVector(vetor); // Comentario.
+    execute.PrintVector(vetor); // Comentario. Deu certo!
     return 0;
 }
