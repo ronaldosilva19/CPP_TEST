@@ -8,6 +8,10 @@
 
 using namespace std;
 
+Execute::Execute() {
+    cout << "Construtor sendo Construido!" << endl;
+}
+
 vector<int> Execute::InputVector(std::vector<int> &vetor, int tamanho) {
     int valor;
     while (tamanho > vetor.size()) {

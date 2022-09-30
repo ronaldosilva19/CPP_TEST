@@ -12,8 +12,8 @@ int main() {
     vector<int> vetor;
     int tamanho;
     Execute execute;
+    Execute();
     cin >> tamanho;
-
     execute.InputVector(vetor, tamanho);
     execute.PrintVector(vetor); // Comentario. Deu certo!
     return 0;

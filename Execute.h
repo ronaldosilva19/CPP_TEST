@@ -7,9 +7,10 @@
 #include <vector>
 
 class Execute {
-public:
-    std::vector<int> InputVector(std::vector<int> &vetor, int tamanho);
-    void PrintVector(std::vector<int> &vetor);
+    public:
+        Execute();
+        std::vector<int> InputVector(std::vector<int> &vetor, int tamanho);
+        void PrintVector(std::vector<int> &vetor);
 
 };
 
