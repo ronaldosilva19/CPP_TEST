@@ -1,2 +1,2 @@
-# CPP_TEST
-Testando IDE CLion
+# C++ Teste IDE
+Programa Simples em C++ para testar a IDE CLion.
